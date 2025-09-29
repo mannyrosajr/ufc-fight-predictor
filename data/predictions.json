@@ -1,0 +1,80 @@
+[
+    {
+        "RedFighter": "Colby Covington",
+        "BlueFighter": "Joaquin Buckley",
+        "PredictedWinner": "Joaquin Buckley",
+        "Confidence": "66.26%"
+    },
+    {
+        "RedFighter": "Cub Swanson",
+        "BlueFighter": "Billy Quarantillo",
+        "PredictedWinner": "Billy Quarantillo",
+        "Confidence": "59.65%"
+    },
+    {
+        "RedFighter": "Manel Kape",
+        "BlueFighter": "Bruno Silva",
+        "PredictedWinner": "Manel Kape",
+        "Confidence": "71.56%"
+    },
+    {
+        "RedFighter": "Vitor Petrino",
+        "BlueFighter": "Dustin Jacoby",
+        "PredictedWinner": "Vitor Petrino",
+        "Confidence": "79.00%"
+    },
+    {
+        "RedFighter": "Adrian Yanez",
+        "BlueFighter": "Daniel Marcos",
+        "PredictedWinner": "Daniel Marcos",
+        "Confidence": "67.00%"
+    },
+    {
+        "RedFighter": "Navajo Stirling",
+        "BlueFighter": "Tuco Tokkos",
+        "PredictedWinner": "Navajo Stirling",
+        "Confidence": "88.09%"
+    },
+    {
+        "RedFighter": "Michael Johnson",
+        "BlueFighter": "Ottman Azaitar",
+        "PredictedWinner": "Michael Johnson",
+        "Confidence": "65.59%"
+    },
+    {
+        "RedFighter": "Joel Alvarez",
+        "BlueFighter": "Drakkar Klose",
+        "PredictedWinner": "Joel Alvarez",
+        "Confidence": "76.65%"
+    },
+    {
+        "RedFighter": "Sean Woodson",
+        "BlueFighter": "Fernando Padilla",
+        "PredictedWinner": "Sean Woodson",
+        "Confidence": "69.07%"
+    },
+    {
+        "RedFighter": "Miles Johns",
+        "BlueFighter": "Felipe Lima",
+        "PredictedWinner": "Felipe Lima",
+        "Confidence": "64.87%"
+    },
+    {
+        "RedFighter": "Miranda Maverick",
+        "BlueFighter": "Jamey-Lyn Horth",
+        "PredictedWinner": "Miranda Maverick",
+        "Confidence": "84.89%"
+    },
+    {
+        "RedFighter": "Davey Grant",
+        "BlueFighter": "Ramon Taveras",
+        "PredictedWinner": "Davey Grant",
+        "Confidence": "57.70%"
+    },
+    {
+        "RedFighter": "Josefine Knutsson",
+        "BlueFighter": "Piera Rodriguez",
+        "PredictedWinner": "Josefine Knutsson",
+        "Confidence": "71.78%"
+    }
+]
